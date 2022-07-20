@@ -1,0 +1,31 @@
+body{
+    background-image:url(file00.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+
+}
+p1{
+    margin-left: 35%;
+    color: darkgray;
+    font-size: large;
+    font-style: normal;
+}
+p2{
+    margin-left: 43%;
+    color: darkgray;
+}
+p3{
+    margin-left: 43%;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    background: lightblue;
+    background-clip: border-box; 
+}
+p4{
+    margin-left: 43%;
+}
+h1{
+    margin-left: 43%;
+}
